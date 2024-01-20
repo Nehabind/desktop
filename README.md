@@ -1,3 +1,4 @@
 # desktop
-This is my first Repository
-author- Neha Kumari
+This is my first Git Repository.
+<br/>
+Author- Neha Kumari
